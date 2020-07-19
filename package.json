@@ -1,0 +1,26 @@
+{
+  "name": "webpackreactapp",
+  "version": "1.0.0",
+  "description": "Webpack React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavin789/WebpackReactApp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Bhavin Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavin789/WebpackReactApp/issues"
+  },
+  "homepage": "https://github.com/Bhavin789/WebpackReactApp#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
